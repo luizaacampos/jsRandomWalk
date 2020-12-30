@@ -1,4 +1,4 @@
-const TOTAL_PARTICLES = 200
+const TOTAL_PARTICLES = 400
 const WIDTH = 600
 const SPEED = 5 
 const colors = []
