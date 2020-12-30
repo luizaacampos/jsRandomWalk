@@ -1,6 +1,6 @@
-const TOTAL_PARTICLES = 100
-const WIDTH = 500
-const SPEED = 5
+const TOTAL_PARTICLES = 200
+const WIDTH = 600
+const SPEED = 5 
 const colors = []
 
 function setup() {
